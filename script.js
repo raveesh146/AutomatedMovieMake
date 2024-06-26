@@ -10,7 +10,7 @@ const apiKey = '4e8b254f01ed46eea7ce369ee393012d';
 // Endpoint for Bing Image Search API
 const searchUrl = "https://api.bing.microsoft.com/v7.0/images/search";
 
-// List of famous people
+//  Input List of famous people
 const names = [
   " Jensen Huang",
     "Elon Musk",
